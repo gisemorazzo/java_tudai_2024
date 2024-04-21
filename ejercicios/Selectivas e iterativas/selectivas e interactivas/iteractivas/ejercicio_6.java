@@ -7,8 +7,8 @@ import java.util.Scanner;
     public class ejercicio_6{
         public static void main(String[]args){
             // Constantes para los límites del número
-    private static final int MINIMO = 1;
-    private static final int MAXIMO = 100;
+     int MINIMO = 1;
+     int MAXIMO = 100;
     
         Scanner scanner = new Scanner(System.in);
         
