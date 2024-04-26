@@ -31,5 +31,4 @@ import java.util.Scanner;
         } while (numero >= MINIMO && numero <= MAXIMO);
         
     }
-}
-    
+    }
