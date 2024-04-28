@@ -2,9 +2,7 @@
 //ingrese un número distinto de 0, pida ingresar otro número y lo
 //imprima.
 
-java.io.BufferedReader;
-java.io.InputStreamReader;
-
+import java.util.Scanner;
 public class ejercicio_1{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
