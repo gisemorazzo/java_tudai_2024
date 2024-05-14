@@ -14,7 +14,7 @@
 //mayor peso de la clave almacenada. Si todo esto se cumple debería mostrar por la consola el mensaje “Clave correcta”.
 //Ejemplo: clave almacenada 364, clave ingresada 364, segunda clave ingresada 698.
 
-import java.util.Scanner
+import java.util.Scanner;
 public class ejercicio_5{
     private static final int CLAVE_ALMACENADA = 364;
     

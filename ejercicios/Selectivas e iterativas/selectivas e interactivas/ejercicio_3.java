@@ -19,5 +19,7 @@ public class ejercicio_3{
                 System.out.println("El número " + numero + " no es múltiplo de 2 ni de 3.");
             }
         }
+        scanner.close();
     }
+    
 }

@@ -42,4 +42,3 @@ public class ejercicio_2{
         scanner.close();
     }
 }
-}

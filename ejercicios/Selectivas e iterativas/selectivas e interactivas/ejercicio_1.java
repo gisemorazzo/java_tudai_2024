@@ -42,7 +42,7 @@ public class ejercicio_1 {
         }
         
         // Caso c: Imprimir el día de la semana según el número ingresado
-        System.out.printtln("Ingrese un número del 1 al 7: ");
+        System.out.println("Ingrese un número del 1 al 7: ");
         int numeroC = scanner.nextInt();
         
         switch(numeroC) {
